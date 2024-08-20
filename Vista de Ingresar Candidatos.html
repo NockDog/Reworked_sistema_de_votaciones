@@ -1,0 +1,14 @@
+﻿<%@ Page Title="Ingresar Candidatos" MasterPageFile="~/Views/Shared/Site.Master" Language="C#" Inherits="System.Web.Mvc.ViewPage<CandidatoViewModel>
+    " %>
+    <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+        <h2>Registrar Nuevo Candidato</h2>
+        <form action="~/Candidatos/Create" method="post">
+            <label>Nombre:</label>
+            <input type="text" name="Nombre" required />
+            <label>Partido Político:</label>
+            <input type="text" name="Partido_Politico" required />
+            <label>Plataforma:</label>
+            <textarea name="Plataforma" required></textarea>
+            <button type="submit">Registrar</button>
+        </form>
+    </asp:Content>

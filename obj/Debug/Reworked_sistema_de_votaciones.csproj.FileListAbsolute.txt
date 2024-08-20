@@ -1,0 +1,2 @@
+C:\Users\rtbri\desktop\Tarea\Reworked_sistema_de_votaciones\obj\Debug\Reworked_sistema_de_votaciones.csproj.AssemblyReference.cache
+C:\Users\rtbri\desktop\Tarea\Reworked_sistema_de_votaciones\obj\Debug\Reworked_sistema_de_votaciones.csproj.CoreCompileInputs.cache
